@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff1a5b77-aa9d-4fbc-bc76-af8d493ad855" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hYV4X41a6gY2EIP2fbrXTC1ObV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Heba Momen\WebstormProjects\resturant\js" />
+      <recent name="C:\Users\Heba Momen\WebstormProjects\resturant" />
+      <recent name="C:\Users\Heba Momen\WebstormProjects\resturant\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff1a5b77-aa9d-4fbc-bc76-af8d493ad855" name="Default Changelist" comment="" />
+      <created>1600187821613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600187821613</updated>
+      <workItem from="1600187822663" duration="988000" />
+      <workItem from="1600252845459" duration="4416000" />
+      <workItem from="1600333825323" duration="23053000" />
+      <workItem from="1600435420778" duration="5754000" />
+      <workItem from="1600540765353" duration="48000" />
+      <workItem from="1600591060523" duration="59000" />
+      <workItem from="1600598358183" duration="13593000" />
+      <workItem from="1600766566852" duration="397000" />
+      <workItem from="1600788605177" duration="606000" />
+      <workItem from="1600792989258" duration="1569000" />
+      <workItem from="1601836953618" duration="267000" />
+      <workItem from="1614266389368" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
